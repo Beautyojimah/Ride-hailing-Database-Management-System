@@ -1,0 +1,6 @@
+promotion_id,promotion_code,description,discount_type,discount_value,start_date,end_date,active
+1,OFF5,£5 off your next trip after 10 rides. ,amount,5,2023/08/01,2023/12/31,Yes
+2,FIRSTRIDE10,10% off first trip. ,percentage,10,2023/01/01,2023/01/01,Yes
+3,CHRISTMAS15,Christmas discount of 15% off trip.,percentage,20,2023/10/01,2023/12/31,No
+4,ANNIVERSARY30,Anniversay disount of 30% off trip.,percentage,30,2024/03/05,2024/05/20,No
+5,STUDENT5,5% off all trips for students.,percentage,10,2023/06/01,2024/04/16,No

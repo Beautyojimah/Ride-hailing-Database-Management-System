@@ -1,0 +1,401 @@
+rating_id,trip_id,rating_by_user_id,rating_for_user_id,rating,comment
+1,537,984,131,1,Not satisfied
+2,53,1009,268,5,Excellent ride
+3,247,587,23,3,Good service
+4,337,498,367,5,Amazing experience
+5,281,907,139,3,Could be better
+6,33,956,490,5,Excellent ride
+7,799,743,308,4,Excellent ride
+8,548,449,239,4,Amazing experience
+9,343,588,434,4,Excellent ride
+10,891,260,441,5,Amazing experience
+11,239,1224,192,3,Excellent ride
+12,492,463,127,5,Good service
+13,729,94,430,3,Excellent ride
+14,177,1021,29,4,Excellent ride
+15,44,1376,121,3,Could be better
+16,304,1132,198,3,Good service
+17,670,355,174,3,Good service
+18,269,469,144,4,Good service
+19,683,95,482,5,Excellent ride
+20,733,868,179,2,Not satisfied
+21,400,91,357,4,Excellent ride
+22,742,1068,11,5,Amazing experience
+23,603,1480,139,3,Could be better
+24,922,955,447,3,Good service
+25,971,384,437,2,Amazing experience
+26,431,23,253,2,Amazing experience
+27,421,23,345,1,Not satisfied
+28,131,1258,314,5,Good service
+29,410,311,19,4,Excellent ride
+30,738,1441,160,3,Good service
+31,225,1357,306,2,Could be better
+32,143,575,122,1,Good service
+33,578,103,72,4,Amazing experience
+34,540,500,55,3,Amazing experience
+35,125,828,460,5,Excellent ride
+36,212,189,169,3,Excellent ride
+37,934,460,99,5,Excellent ride
+38,428,189,70,3,Could be better
+39,437,351,149,1,Good service
+40,592,581,117,1,Not satisfied
+41,238,114,26,5,Good service
+42,644,104,248,5,Excellent ride
+43,328,620,385,2,Could be better
+44,812,1369,209,1,Good service
+45,119,1045,227,1,Amazing experience
+46,46,387,411,1,Good service
+47,84,944,434,5,Amazing experience
+48,794,855,114,2,Good service
+49,352,1233,194,4,Good service
+50,13,483,484,1,Good service
+51,637,473,321,5,Excellent ride
+52,837,859,10,5,Amazing experience
+53,172,942,95,4,Could be better
+54,234,393,121,1,Not satisfied
+55,181,516,126,2,Amazing experience
+56,51,1212,37,4,Excellent ride
+57,781,346,69,1,Amazing experience
+58,681,1376,297,3,Could be better
+59,395,541,174,2,Amazing experience
+60,933,47,461,4,Excellent ride
+61,828,1101,45,5,Excellent ride
+62,800,343,123,1,Not satisfied
+63,429,1215,382,1,Could be better
+64,274,543,472,1,Not satisfied
+65,861,819,27,4,Good service
+66,207,1060,193,3,Excellent ride
+67,148,757,497,1,Not satisfied
+68,300,1448,340,5,Excellent ride
+69,932,351,136,5,Excellent ride
+70,453,188,195,2,Good service
+71,1000,334,49,5,Excellent ride
+72,549,483,96,1,Not satisfied
+73,673,1240,492,5,Could be better
+74,978,1182,121,3,Amazing experience
+75,383,667,249,1,Not satisfied
+76,787,1265,473,1,Good service
+77,947,296,217,1,Amazing experience
+78,800,1486,114,5,Excellent ride
+79,618,45,14,1,Not satisfied
+80,534,495,62,2,Amazing experience
+81,233,175,43,1,Not satisfied
+82,634,1004,411,5,Excellent ride
+83,129,1370,240,1,Not satisfied
+84,822,56,96,2,Good service
+85,729,341,27,3,Amazing experience
+86,660,1132,324,1,Amazing experience
+87,570,214,383,1,Amazing experience
+88,931,758,242,,Not satisfied
+89,237,1421,487,5,Excellent ride
+90,582,550,459,1,Not satisfied
+91,966,497,240,1,Not satisfied
+92,701,173,304,2,Amazing experience
+93,754,105,67,5,Excellent ride
+94,575,479,281,1,Could be better
+95,485,1423,192,4,Excellent ride
+96,241,434,119,1,Not satisfied
+97,957,642,152,3,Good service
+98,697,693,265,5,Excellent ride
+99,771,991,392,1,Amazing experience
+100,741,922,231,4,Good service
+101,223,194,351,2,Could be better
+102,99,843,249,2,Could be better
+103,759,801,59,1,Good service
+104,557,1490,17,4,Could be better
+105,911,1365,171,1,Good service
+106,273,59,351,2,Not satisfied
+107,399,478,452,3,Good service
+108,517,1127,132,1,Not satisfied
+109,982,533,357,1,Amazing experience
+110,430,592,136,3,Amazing experience
+111,523,839,42,4,Could be better
+112,960,1346,305,4,Good service
+113,348,549,6,1,Not satisfied
+114,910,1038,329,3,Amazing experience
+115,551,1480,170,1,Amazing experience
+116,451,221,456,3,Amazing experience
+117,951,876,288,2,Could be better
+118,42,1415,399,3,Amazing experience
+119,715,678,338,4,Excellent ride
+120,94,1197,215,5,Could be better
+121,486,662,69,4,Good service
+122,517,684,370,4,Excellent ride
+123,564,1105,27,3,Could be better
+124,150,336,225,3,Could be better
+125,717,225,322,1,Not satisfied
+126,812,871,234,5,Excellent ride
+127,499,35,486,5,Excellent ride
+128,371,188,443,4,Excellent ride
+129,981,1248,412,5,Amazing experience
+130,699,643,408,2,Amazing experience
+131,485,963,51,2,Good service
+132,665,968,149,1,Good service
+133,383,494,415,2,Good service
+134,628,311,75,3,Amazing experience
+135,661,521,306,1,Not satisfied
+136,732,369,92,2,Good service
+137,192,1499,368,4,Could be better
+138,745,746,424,4,Amazing experience
+139,836,31,68,1,Not satisfied
+140,221,1256,235,1,Could be better
+141,47,998,362,3,Could be better
+142,127,497,144,4,Amazing experience
+143,803,964,76,5,Excellent ride
+144,727,1199,86,1,Not satisfied
+145,7,298,227,1,Amazing experience
+146,696,1389,363,4,Excellent ride
+147,116,1110,447,4,Amazing experience
+148,564,577,56,3,Amazing experience
+149,366,1113,80,4,Could be better
+150,46,54,24,2,Amazing experience
+151,393,1385,227,5,Excellent ride
+152,954,1500,28,2,Could be better
+153,23,229,121,3,Excellent ride
+154,131,779,490,3,Excellent ride
+155,127,985,93,1,Could be better
+156,445,373,341,5,Excellent ride
+157,777,469,112,1,Good service
+158,309,420,378,4,Amazing experience
+159,708,532,345,5,Could be better
+160,433,1424,487,5,Could be better
+161,473,988,31,2,Good service
+162,966,1208,143,5,Good service
+163,48,562,367,1,Good service
+164,891,90,298,4,Good service
+165,82,1407,227,2,Not satisfied
+166,109,369,358,3,Could be better
+167,263,1098,250,5,Excellent ride
+168,867,1293,50,5,Could be better
+169,31,15,214,2,Could be better
+170,358,1353,380,5,Could be better
+171,568,1416,389,5,Good service
+172,480,1458,432,3,Good service
+173,867,344,269,1,Not satisfied
+174,189,1219,288,2,Could be better
+175,988,1060,195,2,Amazing experience
+176,5,917,254,1,Not satisfied
+177,286,205,79,3,Good service
+178,790,776,475,1,Could be better
+179,657,1081,244,4,Good service
+180,394,1134,91,3,Excellent ride
+181,455,686,414,5,Good service
+182,708,718,6,1,Good service
+183,426,225,281,2,Not satisfied
+184,27,1410,412,5,Excellent ride
+185,127,64,446,4,Amazing experience
+186,135,948,150,2,Amazing experience
+187,535,961,324,5,Amazing experience
+188,331,1376,399,2,Could be better
+189,629,1487,282,4,Amazing experience
+190,392,320,191,4,Could be better
+191,8,357,274,1,Good service
+192,613,93,73,1,Amazing experience
+193,261,695,447,2,Not satisfied
+194,199,1324,318,5,Excellent ride
+195,598,1413,500,4,Excellent ride
+196,740,434,68,5,Good service
+197,386,1126,304,3,Excellent ride
+198,472,841,434,4,Excellent ride
+199,179,1402,63,2,Good service
+200,450,1362,453,3,Good service
+201,240,1024,493,4,Good service
+202,524,898,134,2,Not satisfied
+203,815,884,442,4,Good service
+204,746,778,307,2,Good service
+205,183,492,268,5,Good service
+206,794,1084,223,4,Amazing experience
+207,358,813,431,3,Amazing experience
+208,376,392,126,1,Not satisfied
+209,941,1143,265,1,Not satisfied
+210,702,1495,7,4,Excellent ride
+211,838,1352,413,4,Amazing experience
+212,727,21,206,1,Not satisfied
+213,770,1121,179,1,Not satisfied
+214,538,513,468,5,Excellent ride
+215,782,908,496,1,Good service
+216,82,715,183,3,Could be better
+217,358,944,480,5,Excellent ride
+218,185,350,443,4,Could be better
+219,288,1156,440,4,Excellent ride
+220,62,546,406,4,Excellent ride
+221,883,599,228,3,Good service
+222,507,32,236,1,Not satisfied
+223,462,259,146,5,Amazing experience
+224,30,476,58,5,Excellent ride
+225,909,825,296,2,Good service
+226,936,972,241,1,Could be better
+227,31,920,345,1,Not satisfied
+228,293,33,287,3,Excellent ride
+229,173,899,440,4,Could be better
+230,614,388,163,4,Excellent ride
+231,128,798,26,4,Amazing experience
+232,86,456,452,3,Amazing experience
+233,315,1168,106,1,Not satisfied
+234,28,224,240,2,Could be better
+235,122,217,340,4,Amazing experience
+236,251,156,418,4,Good service
+237,573,789,332,1,Not satisfied
+238,403,36,400,3,Excellent ride
+239,683,636,379,2,Could be better
+240,443,9,42,1,Could be better
+241,272,1064,133,5,Good service
+242,837,1493,317,1,Amazing experience
+243,812,179,44,4,Could be better
+244,113,959,35,5,Good service
+245,706,501,364,1,Good service
+246,394,373,347,3,Excellent ride
+247,943,1092,384,2,Good service
+248,19,970,1,1,Not satisfied
+249,852,1448,226,3,Could be better
+250,605,515,299,1,Not satisfied
+251,729,364,288,4,Good service
+252,465,777,236,4,Good service
+253,691,1475,359,1,Not satisfied
+254,909,774,447,4,Excellent ride
+255,191,329,33,2,Good service
+256,493,794,95,1,Not satisfied
+257,912,962,205,1,Not satisfied
+258,949,370,109,4,Could be better
+259,163,597,322,5,Excellent ride
+260,612,1411,30,1,Amazing experience
+261,699,1138,266,1,Not satisfied
+262,295,571,23,5,Could be better
+263,579,1062,97,4,Amazing experience
+264,73,377,39,2,Could be better
+265,744,1423,173,2,Could be better
+266,701,1227,248,4,Excellent ride
+267,562,1226,379,4,Good service
+268,309,100,413,3,Excellent ride
+269,302,1422,414,2,Amazing experience
+270,308,1474,162,5,Excellent ride
+271,124,816,180,4,Good service
+272,669,118,103,5,Excellent ride
+273,261,421,209,5,Excellent ride
+274,195,1267,22,4,Excellent ride
+275,842,541,5,1,Not satisfied
+276,351,1251,139,1,Not satisfied
+277,843,1237,214,3,Excellent ride
+278,768,930,160,2,Good service
+279,977,699,408,3,Good service
+280,936,113,395,4,Good service
+281,489,373,139,2,Good service
+282,200,299,145,5,Could be better
+283,884,1043,160,4,Excellent ride
+284,508,776,83,4,Excellent ride
+285,898,671,155,5,Could be better
+286,580,11,288,5,Good service
+287,446,8,317,5,Amazing experience
+288,80,1177,281,5,Amazing experience
+289,745,1159,64,5,Could be better
+290,698,1397,192,2,Amazing experience
+291,617,461,156,2,Not satisfied
+292,469,1259,424,5,Excellent ride
+293,837,255,500,4,Amazing experience
+294,442,586,91,2,Not satisfied
+295,931,1352,142,5,Excellent ride
+296,654,362,42,1,Not satisfied
+297,911,1398,249,4,Excellent ride
+298,902,1003,295,5,Excellent ride
+299,272,788,258,2,Amazing experience
+300,343,209,337,2,Could be better
+301,124,267,1,5,Amazing experience
+302,223,656,109,4,Good service
+303,490,997,416,1,Not satisfied
+304,686,554,467,3,Good service
+305,703,736,125,4,Excellent ride
+306,652,421,64,5,Amazing experience
+307,297,308,206,4,Good service
+308,119,137,415,4,Good service
+309,787,1443,442,1,Good service
+310,76,195,338,5,Excellent ride
+311,621,1119,244,3,Excellent ride
+312,631,1282,78,5,Excellent ride
+313,973,1049,111,1,Good service
+314,881,1256,142,1,Not satisfied
+315,258,1356,216,5,Amazing experience
+316,532,606,453,3,Amazing experience
+317,631,1014,16,4,Excellent ride
+318,351,862,453,5,Good service
+319,649,221,54,1,Not satisfied
+320,277,297,141,2,Could be better
+321,255,1227,380,5,Excellent ride
+322,264,1011,336,3,Could be better
+323,679,343,79,2,Amazing experience
+324,677,593,415,1,Amazing experience
+325,29,1229,453,1,Not satisfied
+326,467,892,149,1,Not satisfied
+327,35,77,127,1,Could be better
+328,749,707,158,2,Amazing experience
+329,294,1066,279,1,Not satisfied
+330,602,1479,38,1,Not satisfied
+331,203,1206,157,3,Amazing experience
+332,740,757,333,2,Amazing experience
+333,931,1219,288,3,Good service
+334,68,590,112,1,Not satisfied
+335,131,388,190,2,Could be better
+336,877,927,106,5,Excellent ride
+337,111,637,91,4,Excellent ride
+338,524,141,354,2,Amazing experience
+339,288,1051,301,3,Could be better
+340,687,1339,49,5,Good service
+341,831,1345,161,1,Not satisfied
+342,666,448,4,1,Good service
+343,43,293,402,1,Could be better
+344,875,1260,198,1,Good service
+345,717,715,320,4,Amazing experience
+346,684,457,412,4,Excellent ride
+347,294,892,364,3,Amazing experience
+348,285,839,377,1,Not satisfied
+349,823,654,442,4,Amazing experience
+350,564,664,475,3,Could be better
+351,627,765,254,2,Could be better
+352,19,1091,90,1,Not satisfied
+353,507,176,312,1,Not satisfied
+354,547,510,20,4,Excellent ride
+355,48,1115,77,5,Good service
+356,745,705,220,5,Excellent ride
+357,219,1190,162,3,Amazing experience
+358,622,602,497,5,Good service
+359,766,838,343,2,Not satisfied
+360,188,1002,394,3,Could be better
+361,31,1462,115,3,Amazing experience
+362,259,51,94,4,Excellent ride
+363,675,686,406,1,Not satisfied
+364,344,266,133,1,Good service
+365,308,1111,172,5,Good service
+366,71,606,114,5,Could be better
+367,307,1076,9,2,Not satisfied
+368,568,1203,299,1,Not satisfied
+369,99,1302,260,3,Amazing experience
+370,21,1263,170,1,Amazing experience
+371,897,585,321,5,Good service
+372,620,339,98,5,Excellent ride
+373,565,1096,169,2,Good service
+374,6,374,448,5,Amazing experience
+375,231,580,311,1,Amazing experience
+376,994,517,218,3,Amazing experience
+377,82,1262,402,3,Good service
+378,958,1490,400,1,Not satisfied
+379,217,121,343,4,Excellent ride
+380,335,1437,430,3,Excellent ride
+381,559,837,420,1,Amazing experience
+382,864,570,346,1,Could be better
+383,874,43,450,5,Good service
+384,753,1221,44,1,Not satisfied
+385,690,72,500,2,Amazing experience
+386,594,91,261,2,Could be better
+387,799,491,285,2,Amazing experience
+388,704,749,126,1,Could be better
+389,925,998,260,5,Excellent ride
+390,655,383,495,5,Could be better
+391,826,805,355,5,Excellent ride
+392,791,1490,214,4,Excellent ride
+393,934,1178,305,4,Good service
+394,553,170,200,2,Could be better
+395,459,1296,236,1,Not satisfied
+396,783,918,341,1,Not satisfied
+397,87,1134,136,5,Could be better
+398,515,151,378,5,Good service
+399,723,431,436,1,Not satisfied
+400,513,451,116,4,Amazing experience
