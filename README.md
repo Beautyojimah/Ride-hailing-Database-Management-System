@@ -57,12 +57,12 @@ This project is a ride-hailing database management system designed to manage and
 
 ## Authors
 
-- **[Beauty Ojimah]**
-- **[Olawunmi Falana]**
-- **[Omolara Olusola]**
-- **[Gillian White]**
-- **[Hannah Bessant]**
-- **[Odunayo Adeyemi]**   
+- **Beauty Ojimah**
+- **Olawunmi Falana**
+- **Omolara Olusola**
+- **Gillian White**
+- **Hannah Bessant**
+- **Odunayo Adeyemi**   
 
 ## Acknowledgments
 
