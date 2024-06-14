@@ -50,7 +50,29 @@ CREATE TABLE Vehicles (
     FOREIGN KEY (driver_id) REFERENCES Driver(driver_id)
 );
 
--- 5. Trips Table
+-- 5. Addresses Table
+CREATE TABLE Addresses (
+    address_id INT AUTO_INCREMENT PRIMARY KEY,
+    address_line1 VARCHAR(100) NOT NULL,
+    address_line2 VARCHAR(100) NULL,
+    city VARCHAR(50) NOT NULL,
+    postcode VARCHAR(10) NOT NULL,
+    country VARCHAR(50) NOT NULL
+);
+
+-- 6. Promotions Table
+CREATE TABLE Promotions (
+    promotion_id INT AUTO_INCREMENT PRIMARY KEY,
+    promotion_code VARCHAR(20),
+    description TEXT,
+    discount_type ENUM('percentage', 'amount'),
+    discount_value DECIMAL(5,2),
+    start_date DATE,
+    end_date DATE,
+    active VARCHAR(3)
+);
+
+-- 7. Trips Table
 CREATE TABLE Trips (
     trip_id INT AUTO_INCREMENT PRIMARY KEY,
     passenger_id INT,
@@ -71,17 +93,7 @@ CREATE TABLE Trips (
     FOREIGN KEY (end_address_id) REFERENCES Addresses(address_id)
 );
 
--- 6. Addresses Table
-CREATE TABLE Addresses (
-    address_id INT AUTO_INCREMENT PRIMARY KEY,
-    address_line1 VARCHAR(100) NOT NULL,
-    address_line2 VARCHAR(100) NULL,
-    city VARCHAR(50) NOT NULL,
-    postcode VARCHAR(10) NOT NULL,
-    country VARCHAR(50) NOT NULL
-);
-
--- 7. Ratings Table
+-- 8. Ratings Table
 CREATE TABLE Ratings (
     rating_id INT AUTO_INCREMENT PRIMARY KEY,
     trip_id INT,
@@ -94,7 +106,7 @@ CREATE TABLE Ratings (
     FOREIGN KEY (rating_for_user_id) REFERENCES App_users(user_id)
 );
 
--- 8. Payment Table
+-- 9. Payment Table
 CREATE TABLE Payment (
     payment_id INT AUTO_INCREMENT PRIMARY KEY,
     trip_id INT,
@@ -103,18 +115,6 @@ CREATE TABLE Payment (
     payment_status ENUM('approved', 'pending', 'cancelled'),
     payment_date DATETIME,
     FOREIGN KEY (trip_id) REFERENCES Trips(trip_id)
-);
-
--- 9. Promotions Table
-CREATE TABLE Promotions (
-    promotion_id INT AUTO_INCREMENT PRIMARY KEY,
-    promotion_code VARCHAR(20),
-    description TEXT,
-    discount_type ENUM('percentage', 'amount'),
-    discount_value DECIMAL(5,2),
-    start_date DATE,
-    end_date DATE,
-    active VARCHAR(3)
 );
 
 -- 10. Ride_Promotions Table
