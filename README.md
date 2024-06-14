@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project is a ride-sharing database management system designed to manage and facilitate the operations of a ride-sharing service, RYD (Reach Your Destination). It includes extensive back-end functionalities such as dynamic pricing, automated monthly reporting, detailed analytics, and customer support mechanisms.
+This project is a ride-hailing database management system designed to manage and facilitate the operations of a ride-sharing service, RYD (Reach Your Destination). It includes extensive back-end functionalities such as dynamic pricing, automated monthly reporting, detailed analytics, and customer support mechanisms.
 
 ## Features
 
